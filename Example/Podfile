@@ -1,0 +1,4 @@
+xcodeproj 'Example'
+workspace 'Example.xcworkspace'
+
+pod 'PubNub'
